@@ -687,34 +687,34 @@ h1 {
 }
 @keyframes spin {
 	0% {
-		content: "creative";
+		content: "Game Engineer";
 	}
 	10% {
-		content: "think";
+		content: "Game Level";
 	}
 	20% {
-		content: "understand";
+		content: "Unity Game Art";
 	}
 	30% {
-		content: "listen";
+		content: "Unreal Render";
 	}
 	40% {
-		content: "focus";
+		content: "VFX ";
 	}
 	50% {
-		content: "fast";
+		content: "Animation";
 	}
 	60% {
-		content: "hardwork";
+		content: "Modelling";
 	}
 	70% {
-		content: "idea";
+		content: "Shader";
 	}
 	80% {
-		content: "future";
+		content: "Realtime";
 	}
 	90% {
-		content: "and";
+		content: "3D Artist";
 	}
 }
 
